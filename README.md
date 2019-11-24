@@ -1,6 +1,6 @@
 # Service Standard
 
-This Service Standard was established as a work-in-progress proof of concept for the Government of British Columbia. The intent is that it will eventually reside as a GitHub repository at https://github.com/bcgov/ and online at https://digital.gov.bc.ca/. The basic content has been cloned - with gratitude - from the Ontario Digital Service Standard, found online at https://www.ontario.ca/digitalstandard and on GitHub at https://github.com/ongov/Digital-Service-Standard. 
+This Service Standard is being established as a work-in-progress proof of concept for the Government of British Columbia. The intent is that it will eventually reside as a GitHub repository at https://github.com/bcgov/ and online at a location to be determined (which may or may not be https://digital.gov.bc.ca/). The content has been borrowed heavily - with gratitude - from the UK Service Standard and the Ontario Digital Service Standard. 
 
 The Service Standard sets out 14 points to help anyone build and deliver excellent government services. In Ontario, these steps were recently enacted into legislation, making them mandatory; at this time, the BC Service Standard is intended only as a practical guide of concrete steps. 
 
