@@ -14,7 +14,7 @@ feedback with us.
 
 | User needs |            |
 | ---------- | ---------- |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (December 2019)</h3>Conducting user research to understand their needs |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/rumoncarter/Service-Standard/blob/master/dna-strand1.png" width="100"> | <h3>Discovery (December 2019)</h3>Conducting user research to understand their needs |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (January 2020-February 2020)</h3>Testing our hypotheses with users |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (From March 2020)</h3>Developing a minimum viable service |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve based on user feedback |
