@@ -1,8 +1,8 @@
-# Digital Service Standard
+# Service Standard
 
-The Digital Service Standard sets out 14 points to help anyone build and deliver excellent government services.
+This Service Standard was established as a work-in-progress proof of concept for the Government of British Columbia. The intent is that it will eventually reside as a GitHub repository at https://github.com/bcgov/ and online at https://digital.gov.bc.ca/. The basic content has been cloned - with gratitude - from the Ontario Digital Service Standard, found online at https://www.ontario.ca/digitalstandard and on GitHub at https://github.com/ongov/Digital-Service-Standard. 
 
-[Guides and resources, case studies, and related rules](https://www.ontario.ca/page/build-ontario-government-services)
+The Service Standard sets out 14 points to help anyone build and deliver excellent government services. In Ontario, these steps were recently enacted into legislation, making them mandatory; at this time, the BC Service Standard is intended as a helpful guide.
 
 ---
 
@@ -14,9 +14,9 @@ feedback with us.
 
 | User needs |            |
 | ---------- | ---------- |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (June-July 2017)</h3>Conducting user research to understand their needs |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (July 2017-February 2018)</h3>Testing our hypotheses with users |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (From March 2018)</h3>Developing a minimum viable service |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand1.png" width="100"> | <h3>Discovery (December 2019)</h3>Conducting user research to understand their needs |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (January 2020-February 2020)</h3>Testing our hypotheses with users |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (From March 2020)</h3>Developing a minimum viable service |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve based on user feedback |
 
 ## 1. Understand users and their needs
@@ -25,7 +25,7 @@ Start with users to define the problem. Do research to develop a deep understand
 
 ### Why it matters
 
-Understanding the people who use a service and what they want is critical to building a service that works for them. For example, users of a driver’s license renewal service include any Ontarian with a driver’s license.
+Understanding the people who use a service and what they want is critical to building a service that works for them. For example, users of a driver’s license renewal service include any British Columbian with a driver’s license.
 
 It’s easy to make assumptions about users or be influenced by personal experiences. When thinking about users, it’s important to find people with different experiences and perspectives.
 
@@ -94,7 +94,7 @@ Product managers set the strategy for and define features of a service. They are
 
 A product is anything created for a defined group of users. In this
 standard, product refers to any online information or transactional
-service used by the people of Ontario.
+service used by the people of British Columbia.
 
 ### Why it matters
 
@@ -133,12 +133,12 @@ At a minimum:
 
 ## 3. Be consistent
 
-When the public interacts with the Ontario government, their experience
+When the public interacts with the BC government, their experience
 should feel cohesive, positive and consistent.
 
 ### Why it matters
 
-Users should know when they are on an official government website.
+Users should know when they are on an official government website or using an official government service.
 
 Using standard platforms and designs is a cost-effective way of
 providing public services and makes the most of public resources.
@@ -149,29 +149,26 @@ error handling, users should always feel confident in their ability to complete 
 
 ### How to meet this standard
 
-Ontario.ca is the government's flagship website. At a minimum:
+gov.bc.ca is the government's flagship website. At a minimum:
 
-* add new content to Ontario.ca, rather than create any new websites or
+* add new content to gov.bc.ca, rather than create any new websites or
   mobile applications
-* use an Ontario.ca/keyword for websites and marketing, rather than
+* use an gov.bc.ca/keyword for websites and marketing, rather than
   register any new public-facing domain names (e.g.
-  Ontario.ca/digitalservice instead of digitalservice.on.ca)
-* migrate high-demand, priority web content to Ontario.ca
-* use Ontario.ca as the front door for all transactional applications on
-  other platforms (such as OSAP)
-* demonstrate how the service has used the Ontario.ca design standards
-* apply [Ontario.ca content standards](https://www.ontario.ca/page/ontarioca-style-guide) to maintain the tone and voice of
+  gov.bc.ca/digitalthing instead of digitalthing.gov.bc.ca)
+* migrate high-demand, priority web content to gov.bc.ca
+* use gov.bc.ca as the front door for all transactional applications on
+  other platforms
+* demonstrate how the service has used the BC Government design system (https://developer.gov.bc.ca/Design-System/About)
+* apply gov.bc.ca web & development guides (https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/web-content-development-guides) to maintain the tone and voice of
   government content
-* show core content on Ontario.ca that’s easy to find, understand and
+* show core content on gov.bc.ca that’s easy to find, understand and
   use
-* work with the Ontario Digital Service team
+* work with the Exchange Lab team
 * demonstrate that the service is responsive, with the same content and
   functionality on all devices, and works on mobile devices
-* register the domain name through
-  [domain.registration@ontario.ca](mailto:domain.registration@ontario.ca),
-  if needed
 
-### Laws and rules to follow
+### Laws and rules to follow (to be updated with BC content)
 
 * Accessibility -
   [*Accessibility for Ontarians with Disabilities Act*, Information and Communication Standard](https://www.ontario.ca/laws/regulation/r11191#BK9)
@@ -223,7 +220,7 @@ At a minimum:
   applied
 * do user research from the start with people who have accessibility
   needs
-* use the [inclusive design cards](https://www.ontario.ca/page/inclusive-design-cards) to help you sketch, plan, prototype and design
+* use the [inclusive design cards](TBC) to help you sketch, plan, prototype and design
 * test with users who need help to access digital tools
 * use analytics data in the user research plan
 * show any problems found through testing and proposed solutions
@@ -298,9 +295,7 @@ At a minimum:
   including assistive devices
 * test the service in an environment that is as similar to the live
   environment as possible
-* focus on business requirements and user goals (e.g. when redesigning a
-  program like OSAP, test the steps students are taking when completing
-  an OSAP application)
+* focus on business requirements and user goals
 * provide developers with tools and supports to test the service during
   the build and after launch
 * design a service that can accommodate the expected number of users and
@@ -321,7 +316,7 @@ At a minimum:
 
 Accessible design is good design and it's good for business. Creating accessible digital products and services improves the experience for everybody. Ensure the service is accessible to all users regardless of their individual abilities, device, environment or quality of access.
 
-The *Accessibility for Ontarians with Disabilities Act* defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level AA success criteria.
+The *No Equivalent BC Act* defines an accessible government website as one that meets all the World Wide Web Consortium [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) level AA success criteria.
 
 ### Why it matters
 
@@ -346,7 +341,7 @@ At a minimum:
 * demonstrate how your staff will be equipped with knowledge of barriers to accessibility and will be trained to assist users with disabilities in completing tasks and accessing information
 * ensure that when new technology platforms are considered you find out about any WCAG 2.0 AA compliance issues and efforts to implement the Authoring Tool Accessibility Guidelines 2.0 (ATAG) Part A & B
 
-### Laws and rules to follow
+### Laws and rules to follow (to be updated with BC content)
 
 * [*Accessibility for Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/05a11)
   * [Integrated Accessibility Standards Regulation](https://www.ontario.ca/laws/regulation/110191)
@@ -388,7 +383,7 @@ Agile methods build services that:
 
 At a minimum:
 
-* [work in an agile way, using agile tools and techniques](https://www.ontario.ca/page/being-agile-ontario-public-service), and continue
+* [work in an agile way, using agile tools and techniques](https://developer.gov.bc.ca/Agile-Delivery-Process) (needs to be updated), and continue
   to do so when the service is live
 * ensure the team reviews and iterates the ways problems are fixed
 * give an example of how the team has responded to user research and
@@ -439,10 +434,10 @@ At a minimum:
   example, a driver’s licence)
 * explain what data is used and/or collected and when it will be
   published as part of the Open Data Directive
-* use common government platforms (e.g. Ontario.ca, Ontario Newsroom)
+* use common government platforms (e.g. gov.bc.ca, GeoCoder)
 * integrate with any legacy systems
 
-### Laws and rules to follow
+### Laws and rules to follow (to be updated with BC content)
 
 * [Ontario’s Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
 * Standard platforms
@@ -507,7 +502,7 @@ When the service is live, describe:
   changed during beta
 * how the privacy policy will stay up-to-date
 
-### Laws and rules to follow
+### Laws and rules to follow (to be updated with BC content)
 
 * [*Freedom of Information and Protection of Privacy Act*](https://www.ontario.ca/laws/statute/90f31)
 * [*Archives and Recordkeeping Act*​](https://www.ontario.ca/laws/statute/06a34)
@@ -606,7 +601,7 @@ Respond to user research by:
 * designing an assisted digital support model to meet user needs
 * committing to participating in ongoing user research to discover digital support needs
 
-### Laws and rules to follow
+### Laws and rules to follow (to be updated with BC content)
 
 * [*Accessibility for Ontarians with Disabilities Act, Information and Communication Standard*](https://www.ontario.ca/laws/regulation/r11191#BK9)
 
@@ -651,7 +646,7 @@ minister before the service goes live.
 ### Why it matters
 
 Ministers are responsible for delivering on the government’s priorities
-for the people of Ontario, so you need to show them the digital service
+for the people of British Columbia, so you need to show them the digital service
 before it goes live. When the ministers can understand and are experienced with a product, and feel that it is user-centric, they can trust that it will serve the public well.
 
 ### How to meet this standard
@@ -668,15 +663,15 @@ would have to (during usability testing phase early on in the project)
 
 ## Why it matters
 
-TThis Digital Service Standard was developed for the Ontario government to use as we design online information and transactional services for the people of Ontario.
+This  Service Standard was developed for the BC Government to use as we design online information and transactional services for the people of Ontario.
 
-We believe that the best digital service is convenient, intuitive and easy to use. The purpose of the Digital Service Standard is to help the Ontario government deliver consistently good services online.
+We believe that the best digital service is convenient, intuitive and easy to use. The purpose of the Service Standard is to help the BC Government deliver consistently good services through all channels.
 
 The standard will help us:
-* define what good digital service looks like in Ontario
+* define what good services looks like in BC
 * identify the steps we need to take to get there
 
-We looked near and far to develop this standard. It’s built on the aspirations and experiences of teams across the Ontario Public Service, as well as other jurisdictions, especially Gov.UK, USDS and 18F.
+We looked near and far to develop this standard. It’s built on the aspirations and experiences of teams across the BC Public Service, as well as other jurisdictions, especially Gov.UK, USDS and 18F.
 
 
 ##Contributing to the standard
@@ -685,7 +680,7 @@ All new or redesigned information and services will eventually be required to fo
 
 You can share your thoughts and ideas by:
 
-* emailing us at digital.standard@ontario.ca
+* emailing us at TBD
 * forking our GitHub repository
 
 ### By email
@@ -706,8 +701,6 @@ You can share your thoughts and ideas by:
 * Fork off of our develop branch and when you are done make a pull request back to develop
 * Name your branch with your first name or user name, the type of change (fix for typos, grammar edits or feature for any additions or deletions), followed by a description of your changes name/fix/my-changes OR name/feature/my-changes
 * Make one commit per change and explain the reason for your change in your commit message (not what you changed, but why)
-
-(Open Government Licence – Ontario)[https://www.ontario.ca/page/open-government-licence-ontario]
 
 ### Footnotes
 
