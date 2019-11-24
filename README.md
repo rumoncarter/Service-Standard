@@ -2,7 +2,7 @@
 
 This Service Standard was established as a work-in-progress proof of concept for the Government of British Columbia. The intent is that it will eventually reside as a GitHub repository at https://github.com/bcgov/ and online at https://digital.gov.bc.ca/. The basic content has been cloned - with gratitude - from the Ontario Digital Service Standard, found online at https://www.ontario.ca/digitalstandard and on GitHub at https://github.com/ongov/Digital-Service-Standard. 
 
-The Service Standard sets out 14 points to help anyone build and deliver excellent government services. In Ontario, these steps were recently enacted into legislation, making them mandatory; at this time, the BC Service Standard is intended as a helpful guide.
+The Service Standard sets out 14 points to help anyone build and deliver excellent government services. In Ontario, these steps were recently enacted into legislation, making them mandatory; at this time, the BC Service Standard is intended only as a practical guide of concrete steps. 
 
 ---
 
@@ -15,9 +15,9 @@ feedback with us.
 | User needs |            |
 | ---------- | ---------- |
 | <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/rumoncarter/Service-Standard/blob/master/dna-strand1.png" width="100"> | <h3>Discovery (December 2019)</h3>Conducting user research to understand their needs |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand2.png" width="100"> | <h3>Alpha (January 2020-February 2020)</h3>Testing our hypotheses with users |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand3.png" width="100"> | <h3>Beta (From March 2020)</h3>Developing a minimum viable service |
-| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="./images/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve based on user feedback |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/rumoncarter/Service-Standard/blob/master/dna-strand2.png" width="100"> | <h3>Alpha (January 2020-February 2020)</h3>Testing our hypotheses with users |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/rumoncarter/Service-Standard/blob/master/dna-strand3.png" width="100"> | <h3>Beta (From March 2020)</h3>Developing a minimum viable service |
+| <img alt="DNA strand metaphor with user needs woven throughout the helix which twists four times, for each phase of service design" src="https://github.com/rumoncarter/Service-Standard/blob/master/dna-strand4.png" width="100"> | <h3>Live</h3>Continuing to improve based on user feedback |
 
 ## 1. Understand users and their needs
 
