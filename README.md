@@ -3,6 +3,8 @@
 This Service Standard is being established as a work-in-progress proof of concept for the Government of British Columbia. The intent is 
 for this Standard to guide internet era teams to create and run great public services, no matter the channel through which those services are delivered (i.e. whether digital or not). 
 
+## The Service Standard in Context
+
 This Service Standard is envisioned to be part of an interconnected set of guidance and standards for all BC Public Service employees engaged in applying the culture, processes, business models and technology of the internet era to meeting the needs and expectations of the people of British Columbia - that is to say, the Digital BC community: 
 
 * Our British Columbia Public Service Oath of Employment (https://www2.gov.bc.ca/assets/gov/careers/managers-supervisors/managing-employee-labour-relations/oath_of_employment.pdf) and Standards of Conduct (https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct);
